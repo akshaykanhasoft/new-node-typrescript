@@ -1,0 +1,6 @@
+usrname :- akshaykanhasoft
+pass :- sZ3SsD7XfROQwcK4
+
+mongodb+srv://akshaykanhasoft:sZ3SsD7XfROQwcK4@cluster0.ovt61ma.mongodb.net/testDatabase
+
+https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
